@@ -23,5 +23,5 @@
 - **Робототехнические проекты** — проекты на Raspberry Pi и Arduino (непубличные)  
 
 ## Контакты
-- 📧 rifsite@yandex.ru  
+- 📧 rifsite@mail.ru  
 - Telegram: [@rif_soul](https://t.me/rif_soul)
