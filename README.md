@@ -5,20 +5,20 @@
 ## Навыки
 
 **Языки и платформы:**  
-`Java` `Kotlin (начальный)` `JavaScript (начальный)` `Linux`
+`Java`, `Kotlin (начальный)`, `JavaScript (начальный)` , `Linux`
 
 **Фреймворки и библиотеки:**  
-`Spring` `Spring Boot`  `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `Java Native Interface (JNI)` `Lombok`
+`Spring`, `Spring Boot`, `Java Core`, `Hibernate`, `REST API`, `@Slf4j`, `pi4j`, `Java Native Interface (JNI)`, `Lombok`
 
 **Базы данных:**  
-`PostgreSQL` `SQL`
+`PostgreSQL`, `SQL`
 
-**Инструменты и методы:**  
-`Maven` `Gradle` `Git & GitHub` `Postman` `Unit-тестирование`
+**Инструменты**  
+`Maven`, `Gradle`, `Git & GitHub`, `Postman`, `Unit-тестирование`
 
 **Робототехника:**  
-`Контроллеры: Raspberry Pi` `Arduino` 
-`Работа с сенсорами (датчики температуры, расстояния, движения)`
+`Контроллеры: Raspberry Pi, Arduino`, 
+`Работа с сенсорами (датчики температуры, расстояния, движения)`, 
 `Протоколы связи: I2C, SPI, UART`
 
 ## Проекты
