@@ -5,10 +5,10 @@
 ## Навыки
 
 **Языки и платформы:**  
-`Java` `Kotlin (начальный)` `JavaScript (начальный)`
+`Java` `Kotlin (начальный)` `JavaScript (начальный)` `Linux`
 
 **Фреймворки и библиотеки:**  
-`Spring` `Spring Boot 3` `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j`
+`Spring` `Spring Boot 3` `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `JNI / NDK / .so libraries` `Java Native Interface (JNI)`
 
 **Базы данных:**  
 `PostgreSQL` `SQL`
