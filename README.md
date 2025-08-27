@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет, я Рифат! 👋
 
-<!--
-**RifatSuleymanov/RifatSuleymanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Я Java-разработчик, увлекаюсь робототехникой.  
 
-Here are some ideas to get you started:
+## Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Языки и платформы
+- Java, Kotlin (начальный)  
+- JavaScript (начальный)  
+
+### Фреймворки и библиотеки
+- Spring, Spring Boot 3  
+- Hibernate  
+- REST API  
+- Логирование @Slf4j  
+
+### Базы данных
+- PostgreSQL  
+- SQL  
+
+### Инструменты и методы
+- Maven  
+- Git & GitHub  
+- Postman  
+- Unit-тестирование  
+- Структуры данных и алгоритмы  
+
+### Хобби / Робототехника
+- Raspberry Pi  
+- Arduino  
+- Сенсоры и актуаторы  
+
+## Проекты
+- **Робототехнические проекты** — проекты на Raspberry Pi и Arduino (непубличные)  
+
+## Контакты
+- 📧 rifsite@yandex.ru  
+- Telegram: [@rif_soul](https://t.me/rif_soul)
