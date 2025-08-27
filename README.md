@@ -8,7 +8,7 @@
 `Java` `Kotlin (начальный)` `JavaScript (начальный)` `Linux`
 
 **Фреймворки и библиотеки:**  
-`Spring` `Spring Boot`  `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `JNI / .so libraries` `Java Native Interface (JNI)` `Lombok`
+`Spring` `Spring Boot`  `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `Java Native Interface (JNI)` `Lombok`
 
 **Базы данных:**  
 `PostgreSQL` `SQL`
