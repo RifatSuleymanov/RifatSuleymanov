@@ -8,7 +8,7 @@
 `Java` `Kotlin (начальный)` `JavaScript (начальный)` `Linux`
 
 **Фреймворки и библиотеки:**  
-`Spring` `Spring Boot 3` `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `JNI / .so libraries` `Java Native Interface (JNI)`
+`Spring` `Spring Boot`  `Java Core` `Hibernate` `REST API` `@Slf4j` `pi4j` `JNI / .so libraries` `Java Native Interface (JNI)` `Lombok`
 
 **Базы данных:**  
 `PostgreSQL` `SQL`
@@ -17,10 +17,11 @@
 `Maven` `Gradle` `Git & GitHub` `Postman` `Unit-тестирование`
 
 **Робототехника:**  
-`Raspberry Pi` `Arduino`
+`Raspberry Pi` `Arduino` `Работа с сенсорами (датчики температуры, расстояния, движения)` `Протоколы связи: I2C, SPI, UART`
 
 ## Проекты
-- **Робототехнические проекты** — проекты на Raspberry Pi и Arduino (непубличные)  
+- **Робототехнические проекты** — проекты на Raspberry Pi и Arduino (непубличные)
+- **Работа с нативным кодом: JNI / NDK / .so библиотеки**
 
 ## Контакты
 - 📧 rifsite@mail.ru  
