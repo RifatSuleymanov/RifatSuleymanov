@@ -30,5 +30,5 @@
 - **Учебные проекты**
 
 ## Контакты
-- 📧 rifsite@mail.ru  
-- Telegram: [@rif_soul](https://t.me/rif_soul)
+- 📧 Email:    | rifsite@mail.ru  
+- ✈️ Telegram: | [@rif_soul](https://t.me/rif_soul)
